@@ -12,3 +12,4 @@ Arquitetura e Configuração do Ambiente: Inicializei a estrutura do projeto, ge
 Engenharia de Protótipos: Utilizei ferramentas avançadas de IA (Google AI Studio) para prototipar e gerar a lógica dos componentes de forma eficiente.
 
 Infraestrutura e Implantação: Gerenciei o controle de versão com Git/GitHub e orquestrei o pipeline de implantação contínua usando o Vercel.
+LINK DO SITE:https://studio-est-tica-website.vercel.app/
