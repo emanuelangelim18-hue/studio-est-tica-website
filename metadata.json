@@ -1,0 +1,6 @@
+{
+  "name": "Studio Gracielys",
+  "description": "Estúdio de cabelos especializado em loiros, iluminados, tratamentos, escovas, penteados e química em geral. Atendimento exclusivo em Teresina - PI e Parnarama - MA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
