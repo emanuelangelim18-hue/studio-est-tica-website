@@ -1,20 +1,14 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+ Site do Studio Estética
 
-# Run and deploy your AI Studio app
+Uma landing page moderna, de alto desempenho e totalmente responsiva, desenvolvida para um salão de beleza e estética.
 
-This contains everything you need to run your app locally.
+Visão Geral do Projeto
 
-View your app in AI Studio: https://ai.studio/apps/362059dc-789e-4e7b-9f29-5981196b9e97
+Este projeto foi desenvolvido para oferecer uma experiência de usuário premium para clientes que desejam explorar serviços de salão, conferir transformações e agendar horários com facilidade. Ele apresenta um layout limpo e responsivo, otimizado para conversão e velocidade.
 
-## Run Locally
+Meu Papel e Processo:
+Arquitetura e Configuração do Ambiente: Inicializei a estrutura do projeto, gerenciei as dependências e configurei o ambiente de desenvolvimento usando o Vite.
 
-**Prerequisites:**  Node.js
+Engenharia de Protótipos: Utilizei ferramentas avançadas de IA (Google AI Studio) para prototipar e gerar a lógica dos componentes de forma eficiente.
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Infraestrutura e Implantação: Gerenciei o controle de versão com Git/GitHub e orquestrei o pipeline de implantação contínua usando o Vercel.
